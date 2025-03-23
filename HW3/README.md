@@ -1,5 +1,7 @@
 Ely Greenstein
+
 1208888391
+
 CSE 360 Monday Class
 
 This is the file folder for Individual Assignment 3 for CSE 360.
