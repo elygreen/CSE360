@@ -1,1 +1,3 @@
-Javadoc output for HW4. Main access file is index.html.
+Javadoc export output.
+
+index.html is the main input.
